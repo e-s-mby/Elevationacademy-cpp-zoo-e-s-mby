@@ -1,6 +1,6 @@
-#include "Lion.h"
-#include "Owl.h"
-#include "Shark.h"
+#include "lion.h"
+#include "owl.h"
+#include "shark.h"
 int main()
 {
 	Lion lion1("Simba");
