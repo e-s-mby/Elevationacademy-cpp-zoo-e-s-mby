@@ -1,4 +1,4 @@
-#include "Lion.h"
+#include "lion.h"
 const std::string Lion::m_species = "lion";
 const std::vector<enumCon> Lion::m_continent = {E_AFRICA,E_ASIA};
 const std::vector<enumFood> Lion::m_typesoffood = { E_MEET, E_BIRDS};
